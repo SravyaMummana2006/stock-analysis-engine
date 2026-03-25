@@ -1,6 +1,5 @@
 # 📈 Stock Analysis Engine
 [Live Demo](https://stock-analysis-engine.streamlit.app)
-# 📈 Stock Analysis Engine — Indian Markets
 
 An intelligent stock analysis system for NSE Indian stocks. Combines
 technical analysis, market intelligence rules, and machine learning to
